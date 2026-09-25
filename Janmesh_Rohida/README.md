@@ -159,3 +159,5 @@ The Swagger UI is styled with a custom Coffee Brown & Off-White theme matching t
 
 ## 🛡️ License
 Distributed under the ISC License.
+
+Deployment Link - https://github.com/janmesh16/assignment-12-event-management-ticketing-api
